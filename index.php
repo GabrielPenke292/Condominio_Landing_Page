@@ -5,6 +5,8 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Minha landing page</title>
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
@@ -47,6 +49,13 @@
             </div>
         </div>
     </section><!-- cover form -->
+
+    <section id="chamada">
+    <div class="container">
+        <h2>Lorem ipsum, dolor sit amet consectetur adipisicing.</h2>
+        <p>Elit dolores consequuntur similique libero rem!</p>
+    </div>
+    </section><!-- chamada -->
 
 </body>
 </html>
