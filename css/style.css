@@ -118,7 +118,7 @@ section#chamada{
 
 #chamada .container{
     padding: 40px 0;
-    background: #91915d;
+    background: #73acb6;
 }
 
 #chamada h2{
@@ -130,6 +130,18 @@ section#chamada{
 #chamada p{
     color: white;
     padding-top: 8px;
+}
+
+@media (max-width: 960px){
+    .bg{
+        text-align: center;
+    }
+    .form-container{
+        width: 96%;
+        max-width: 400px;
+        position: static;
+        display: inline-block;
+    }
 }
 
 @media (max-width: 510px) {
